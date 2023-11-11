@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585547362682",
+    "project_id": "fir-7cfe3",
+    "storage_bucket": "fir-7cfe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585547362682:android:04d77e7d31e0bcaf81a6c3",
+        "android_client_info": {
+          "package_name": "com.techstar.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9tnzhIwQlzGliOCsVrvSMVjU-HZdENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
